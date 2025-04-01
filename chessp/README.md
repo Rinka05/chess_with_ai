@@ -3,6 +3,9 @@
 ## Overview
 This is a Chess game built using Python and Tkinter with AI-powered move suggestions. The AI can use either Stockfish, OpenAI's GPT, or Google's Gemini to generate moves. The game supports both human and AI players, and it announces the winner at the end.
 
+![image](https://github.com/user-attachments/assets/eeccb31e-1733-4e37-84df-3209c5b8fb3c)
+
+
 ## Features
 - Play against another human or AI (Stockfish, GPT, Gemini)
 - Interactive GUI built with Tkinter
