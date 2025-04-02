@@ -43,6 +43,8 @@ Ensure you have the following installed:
 2. Select the AI engine from the dropdown (Stockfish, GPT, or Gemini).
 3. Click on pieces to move them according to standard chess rules.
 4. The game will announce the winner when checkmate occurs.
+5. chessusingai file has a working chess board using gemini model . Api keys should be entered by the user
+   
 
 ## File Structure
 ```
